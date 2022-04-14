@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
-    echo "You need to specify an argument to search your pokemon"
+    echo "You need to specify an argument to search for your pokemon"
     exit 1
 fi
 
